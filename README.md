@@ -1,4 +1,4 @@
-# Power-bi_SuperStore_Sales_Dashboard
+# SuperStore_Sales_Power-bi_Dashboard
 
 Superstore Sales Dashboard and Forecasting with Power BI
 
