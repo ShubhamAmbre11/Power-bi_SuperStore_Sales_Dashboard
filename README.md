@@ -1,7 +1,6 @@
 # Power-bi_SuperStore_Sales_Dashboard
 
-
-Project Summary: Superstore Sales Dashboard and Forecasting with Power BI
+Superstore Sales Dashboard and Forecasting with Power BI
 
 This project involves the creation of an interactive and comprehensive sales dashboard for a superstore using Power BI. The dashboard provides detailed insights into various aspects of sales performance, including profit, quantity, sales, segment, payment mode, region, and category. Additionally, it includes a 15-day sales forecast based on order date.
 
